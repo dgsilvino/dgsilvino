@@ -11,24 +11,30 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional em **transição de carreira** para a área de Tecnologia, com uma base sólida em análise de dados vinda de mais de 6 anos de experiência como Estatístico Esportivo. Minha paixão é transformar dados em insights e construir soluções lógicas e eficientes com código.
+Sou um profissional em **transição de carreira** para a área de Tecnologia, com uma base sólida em análise de minha experiência como Estatístico Esportivo. Minha paixão é transformar dados em insights e construir soluções lógicas e eficientes com código.
 
-- 🔭 Atualmente estou focado em aprimorar minhas habilidades em **Desenvolvimento Back-end com Node.js** e **Análise de Dados com Python e Power BI**.
-- 🌱 Estou sempre aprendendo e explorando novas tecnologias para resolver problemas de forma criativa.
-- 📫 Como entrar em contato comigo: `dg.silvino@gmail.com`
+Minha jornada em tecnologia é focada em três grandes áreas:
+
+-   🎨 **Desenvolvimento Front-end:** Tenho projetos práticos utilizando **HTML5**, **CSS3** (com Flexbox, Grid e design responsivo) e **JavaScript** puro para manipulação do DOM.
+
+-   ⚙️ **Desenvolvimento Back-end:** Construo a lógica, os servidores e as APIs RESTful que dão vida às aplicações. Tenho projetos práticos utilizando **Node.js** e **MySQL**.
+
+-   📊 **Análise de Dados:** Exploro e processo dados para extrair informações valiosas e criar dashboards interativos. Estou desenvolvendo projetos com **Python (Pandas)** e **Power BI**.
+
+Busco uma oportunidade para aplicar e expandir essas habilidades, contribuindo para projetos desafiadores e para o sucesso da equipe.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>

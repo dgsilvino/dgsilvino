@@ -11,18 +11,17 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional em **transição de carreira** para a área de Tecnologia, com uma base sólida em análise de minha experiência como Estatístico Esportivo. Minha paixão é transformar dados em insights e construir soluções lógicas e eficientes com código.
+Sou um profissional de tecnologia movido pela precisão dos dados e pela resiliência dos sistemas. Minha trajetória combina a agilidade da análise estatística em tempo real com o rigor técnico necessário para sustentar infraestruturas corporativas globais.
 
-Minha jornada em tecnologia é focada em três grandes áreas:
+💼 Atuação Profissional
+TCS (Tata Consultancy Services): Atuo no suporte especializado, gerenciando o ecossistema Microsoft (Office 365, SharePoint e Azure) para operações críticas.
 
--   🎨 **Desenvolvimento Front-end:** Tenho projetos práticos utilizando **HTML5**, **CSS3** (com Flexbox, Grid e design responsivo) e **JavaScript** puro para manipulação do DOM.
+Genius Sports: Colaboração focada na integridade de dados estatísticos em tempo real, onde foco absoluto e latência zero são fundamentais.
 
--   ⚙️ **Desenvolvimento Back-end:** Construo a lógica, os servidores e as APIs RESTful que dão vida às aplicações. Tenho projetos práticos utilizando **Node.js** e **MySQL**.
+🎯 Pilares Estratégicos & Evolução
+🛡️ Cyber Security: aplicando proteção de dados e mitigação de riscos ao cotidiano técnico.
 
--   📊 **Análise de Dados:** Exploro e processo dados para extrair informações valiosas e criar dashboards interativos. Estou desenvolvendo projetos com **Python (Pandas)** e **Power BI**.
-
-Busco uma oportunidade para aplicar e expandir essas habilidades, contribuindo para projetos desafiadores e para o sucesso da equipe.
-
+⚙️ Desenvolvimento & Dados: Construção de soluções com Python (Pandas), SQL, MongoDB e a stack JavaScript (React/Node.js), automatizando fluxos de trabalho manuais.
 ---
 
 ## 🚀 Tecnologias e Ferramentas

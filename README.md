@@ -14,14 +14,17 @@
 Sou um profissional de tecnologia movido pela precisão dos dados e pela resiliência dos sistemas. Minha trajetória combina a agilidade da análise estatística em tempo real com o rigor técnico necessário para sustentar infraestruturas corporativas globais.
 
 💼 Atuação Profissional
+
 TCS (Tata Consultancy Services): Atuo no suporte especializado, gerenciando o ecossistema Microsoft (Office 365, SharePoint e Azure) para operações críticas.
 
 Genius Sports: Colaboração focada na integridade de dados estatísticos em tempo real, onde foco absoluto e latência zero são fundamentais.
 
 🎯 Pilares Estratégicos & Evolução
+
 🛡️ Cyber Security: aplicando proteção de dados e mitigação de riscos ao cotidiano técnico.
 
 ⚙️ Desenvolvimento & Dados: Construção de soluções com Python (Pandas), SQL, MongoDB e a stack JavaScript (React/Node.js), automatizando fluxos de trabalho manuais.
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
